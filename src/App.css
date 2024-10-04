@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+/* webxr-app/src/App.css */
+canvas {
+  width: 100%;
+  height: 100%!important;
+}
